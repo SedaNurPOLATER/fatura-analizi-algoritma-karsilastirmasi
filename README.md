@@ -1,6 +1,6 @@
 # Fatura Analizi Algoritma Karşılaştırılması
 
-Bu repo, evlerdeki fatura verilerini ele alarak çeşitli veri analitiği yöntemleri ve makine öğrenimi algoritmalarıyla bir analiz yapmayı ve bu algoritmaların performanslarını karşılaştırmayı amaçlamaktadır.
+Bu çalışma, 634 satırdan oluşan ve 7 farklı başlık altında incelenen ev faturaları veri setini kullanmaktadır. Random Forest, KNN, Decision Tree Regressor, Linear Regresyon ve SVR gibi beş farklı algoritma kullanılarak faturaların analizi yapılmıştır. Algoritmaların performansı, regresyon problemleri için yaygın olarak kullanılan Ortalama Kare Hatası (Mean Squared Error - MSE) ve R-kare (R-squared) değerleri ile değerlendirilmiştir. Ayrıca, gerçek ve tahmin edilen değerlerin görselleştirilmesi yapılmıştır.
 
 ## Kullanılan Algoritmalar
 
